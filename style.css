@@ -1,0 +1,307 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a{
+  text-decoration: none;
+}
+
+#paper{
+  margin: auto;
+  margin-top: 40px;
+  box-shadow: -18px 18px 30px gray;
+  height: fit-content;
+  width: 830px;
+  font-family: Haettenschweiler, 'Times New Roman', Times, serif;
+  font-size: 1.05rem;
+ 
+}
+
+h1{
+  position: relative;
+  top: 30px;
+  text-align: center;
+  font-size: 60px;
+  margin-bottom: 50px;
+}
+
+.website{
+  position: relative;
+  left: 100px;
+  font-size: 17px;
+}
+
+.github{
+  position: relative;
+  left: 140px;
+  font-size: 17px;
+}
+
+.number{
+  position: relative;
+  left: 100px;
+  top: 5px;
+}
+
+.email{
+  position: relative;
+  left: 240px;
+  top: 5px;
+}
+
+section div{
+  margin-left: 30px;
+  margin-bottom: 10px;
+}
+
+.summary, .experience{
+  margin-right: 25px;
+}
+
+.summary h2, .experience h2, .education h2, .skills h2, .projects h2{
+  margin-top: 8px;
+  margin-bottom: 5px;
+}
+
+.year, div h5, div p{
+  margin-top: 5px;
+}
+
+.skills-list{
+  margin-left: 20px;
+}
+
+li{
+  font-size: 1.07rem;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
